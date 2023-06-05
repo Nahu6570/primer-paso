@@ -1,0 +1,19 @@
+.algo {
+    background-color: red;
+    border: black solid 2px;
+    width: 500px;
+    height: 300px;
+    margin: 50px;
+}
+.something {
+    background-color: blue;
+    margin: 30px; 
+    padding: 20px; 
+    width: 400px; 
+    height: 200px;
+}
+.qsy { 
+    background-color: yellow;
+    width: 400px;
+    height: 200px;
+}

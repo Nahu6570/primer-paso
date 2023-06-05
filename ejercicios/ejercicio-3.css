@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+@media (max-width: 600px) {
+    body {
+        background-color: greenyellow;
+    }
+}
+@media (max-height: 400px) {
+    body {
+        background-color: blueviolet;
+    }
+}
